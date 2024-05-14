@@ -1,19 +1,78 @@
-![JavaScript](https://github.com/SakriyaJS/ProgrammerSakriya/assets/168012568/b8e3403c-a81e-4a47-9e2c-e0a7811da0d4)- 👋 Hi, I’m @SakriyaJS 
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me sakriyanepal2@gmail.com
-- 😄 Pronouns: ...
-<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="256" height="256" rx="60" fill="#F0DB4F"/>
-<path d="M67.3117 213.932L86.9027 202.076C90.6821 208.777 94.1202 214.447 102.367 214.447C110.272 214.447 115.256 211.355 115.256 199.327V117.529H139.314V199.667C139.314 224.584 124.708 235.926 103.398 235.926C84.1533 235.926 72.9819 225.959 67.3113 213.93" fill="#323330"/>
-<path d="M152.381 211.354L171.969 200.013C177.126 208.434 183.828 214.62 195.684 214.62C205.653 214.62 212.009 209.636 212.009 202.762C212.009 194.514 205.479 191.592 194.481 186.782L188.468 184.203C171.111 176.815 159.597 167.535 159.597 147.945C159.597 129.901 173.345 116.153 194.826 116.153C210.12 116.153 221.118 121.481 229.022 135.4L210.291 147.429C206.166 140.04 201.7 137.119 194.826 137.119C187.78 137.119 183.312 141.587 183.312 147.429C183.312 154.646 187.78 157.568 198.09 162.037L204.104 164.614C224.553 173.379 236.067 182.313 236.067 202.418C236.067 224.072 219.055 235.928 196.2 235.928C173.861 235.928 159.426 225.274 152.381 211.354" fill="#323330"/>
-</svg>
-vaScript.svg…]()
+# Hi there! 👋
 
-- 
+My name is Sakriya Nepal, a 14-year-old Nepali boy passionate about coding. Currently, I'm in class 8 and eager to explore the vast world of technology. Welcome to my GitHub profile!
 
-<!---
-SakriyaJS/SakriyaJS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+- **Name:** Sakriya Nepal
+- **Age:** 14 years old
+- **Location:** Nepal
+- **Education:** Currently studying in class 8
+
+## Interests
+- Coding 💻: I love to dive into the world of programming, exploring new languages, and building projects.
+- Technology 🌐: I'm fascinated by the latest tech trends and enjoy keeping up with technological advancements.
+- Learning 📚: I'm always eager to learn new things, whether it's a new programming language, framework, or concept.
+
+## Languages and Tools
+- **Programming Languages:** # Hi there! 👋
+
+My name is Sakriya Nepal, a 14-year-old Nepali boy passionate about coding. Currently, I'm in class 8 and eager to explore the vast world of technology. Welcome to my GitHub profile!
+
+## About Me
+- **Name:** Sakriya Nepal
+- **Age:** 14 years old
+- **Location:** Nepal
+- **Education:** Currently studying in class 8
+
+## Interests
+- Coding 💻: I love to dive into the world of programming, exploring new languages, and building projects.
+- Technology 🌐: I'm fascinated by the latest tech trends and enjoy keeping up with technological advancements.
+- Learning 📚: I'm always eager to learn new things, whether it's a new programming language, framework, or concept.
+
+## Languages and Tools
+- **Programming Languages:** # Hi there! 👋
+
+My name is Sakriya Nepal, a 14-year-old Nepali boy passionate about coding. Currently, I'm in class 8 and eager to explore the vast world of technology. Welcome to my GitHub profile!
+
+## About Me
+- **Name:** Sakriya Nepal
+- **Age:** 14 years old
+- **Location:** Nepal
+- **Education:** Currently studying in class 8
+
+## Interests
+- Coding 💻: I love to dive into the world of programming, exploring new languages, and building projects.
+- Technology 🌐: I'm fascinated by the latest tech trends and enjoy keeping up with technological advancements.
+- Learning 📚: I'm always eager to learn new things, whether it's a new programming language, framework, or concept.
+
+## Languages and Tools
+- **Programming Languages:** file:///C:/Users/savin/Downloads/JavaScript.svg,
+- **Tools:** Visual Studio Code, Git, GitHub
+
+## Projects
+I'm actively working on various projects to enhance my skills and contribute to the open-source community. Stay tuned for updates!
+
+## Get in Touch
+Feel free to connect with me on GitHub or reach out via email [sakriyanepal@example.com].
+
+Thanks for visiting my GitHub profile! 😊
+
+- **Tools:** Visual Studio Code, Git, GitHub
+
+## Projects
+I'm actively working on various projects to enhance my skills and contribute to the open-source community. Stay tuned for updates!
+
+## Get in Touch
+Feel free to connect with me on GitHub or reach out via email [sakriyanepal@example.com].
+
+Thanks for visiting my GitHub profile! 😊
+
+- **Tools:** Visual Studio Code, Git, GitHub
+
+## Projects
+I'm actively working on various projects to enhance my skills and contribute to the open-source community. Stay tuned for updates!
+
+## Get in Touch
+Feel free to connect with me on GitHub or reach out via email [sakriyanepal@example.com].
+
+Thanks for visiting my GitHub profile! 😊
